@@ -1,0 +1,111 @@
+<html></
+<head></
+<title></
+<meta charset="UTF_8"></
+<body></
+<h1></ Hasta <h6></
+<p></
+<br/></
+<em></
+<strong></
+<div></
+<span></
+<header></
+<nav></
+<section></
+<article></
+<footer></
+<aside></
+<main></
+<img src="Imagen.jpg" alt="Imagen"/>
+<video src="video.mp4" controls><code>video</code></
+<audio src="audio.mp3" preload="auto" controls></
+<iframe src="pagina_queelijo.html" width=--- height=---></
+<ol></
+<ul></
+<li></
+<imput =type"" name="" value=""/>
+<fieldset></
+<legend></
+<a href=".html"></
+
+
+<link rel="stilos" href"archivo.css" />
+<style></
+
+
+CSS=
+h1 {
+	color: red;
+}
+h2 {
+	background-color: blue;
+	   width: 200px;
+	   geight: 200px;
+}
+.bordesRedondeados {
+	/* codigo css */
+}
+#codigoCSS
+	/* codigo CSS */
+}
+< div ID=""></
+* {
+	margin:"";
+	padding:"";
+}
+* {
+	list-style-type;"";
+}
+* {
+	font-style;"";
+}
+* {
+	font-weight:"";
+}
+* {
+	font-size:"";
+}
+* {
+	font-family:"";
+}
+* {
+	text-align: center;
+}
+* {
+	text-height:"";
+}
+* {
+	text-decoration:"";
+}
+* {
+	background-image:"";
+}
+* {
+	background-repeat:"";
+}
+* {
+	background-position:"";
+}
+* {
+	background-size:"";
+}
+* {
+	display:"";
+}
+
+
+FLEXBOX
+
+display: flex
+flex-direction:
+flex-wrap:
+flex-flow:
+justufy -content:
+align-items:
+align-content:
+
+	
+
+
+
